@@ -1,5 +1,6 @@
 # Laravel PHP Framework
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/53436dd5a1054a749cd5a0a2e7f43e83)](https://www.codacy.com/app/ziuxlab/testabolichd?utm_source=github.com&utm_medium=referral&utm_content=ziuxlab/testabolichd&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
